@@ -23,6 +23,8 @@
 1. Clone the repository
 2. Install required dependencies:
    ```bash
-   pip install numpy pandas matplotlib scikit-learn
+   pip install jupyter numpy pandas matplotlib scikit-learn
    ```
-3. Open the notebooks in Jupyter or Google Colab
+3. Open the notebooks:
+   - **Jupyter**: Run `jupyter notebook` and navigate to the `notebooks/` directory
+   - **Google Colab**: Upload the notebooks directly to [Google Colab](https://colab.research.google.com/)
